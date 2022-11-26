@@ -13,16 +13,13 @@ In this project, a dynamic navigation bar is required corresponding to sections 
 
 ## Features
 
-#### Main Features
 
 1. Create the Navigation bar dynamically.
 2. Scroll to any section by clicking on the corresponding element in the Navbar.
 3. By scrolling, the section in the viewport get detected and stylized.
 
-#### Additional Features
 
-- Back to the top button appears when the user scroll > 500px.
 
 ### Developer
 
-**[Youssef Rabei](https://github.com/YoussefRabeii)**
+shehab alaa eldeen
